@@ -1,0 +1,5 @@
+
+ROOT_DIR=/mnt
+EFI_DIR=/boot
+
+PASSWORD=123
